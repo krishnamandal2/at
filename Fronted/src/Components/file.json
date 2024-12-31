@@ -1,0 +1,26 @@
+
+[
+    {
+    "name":"Krishna",
+    "rollNumbers":"101",
+    "class":"BCA"
+},
+
+
+{
+    "name":"John",
+    "rollNumbers":"102",
+    "class":"MCA"
+},
+{
+    "name":"Ram",
+    "rollNumbers":"103",
+    "class":"BTECH"
+},
+{
+    "name":"Krishna",
+    "rollNumbers":"104",
+    "class":"UPSC"
+}
+
+]
